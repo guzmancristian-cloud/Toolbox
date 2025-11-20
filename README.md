@@ -7,13 +7,14 @@ Este repositorio contiene las pruebas solicitadas para el ejercicio técnico, im
 
 ## Revision del Request 
  
-Revision del Request 
+<a href="https://github.com/guzmancristian-cloud/Toolbox/blob/main/data/1_Revision_Request/request.md">Revision del Request</a> 
 
 ---
 
 ## Bug Reporting:
 
-Bug Reporting
+<a href="https://github.com/guzmancristian-cloud/Toolbox/blob/main/data/2_Bug_Reporting/bugreport.md">Bug Reporting</a> 
+
 ---
 
 ### Implementación de tests con Cypress. 
